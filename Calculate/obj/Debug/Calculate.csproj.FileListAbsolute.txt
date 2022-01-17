@@ -1,0 +1,10 @@
+C:\Users\E5530\source\repos\Calculate\Calculate\bin\Debug\Calculate.exe.config
+C:\Users\E5530\source\repos\Calculate\Calculate\bin\Debug\Calculate.exe
+C:\Users\E5530\source\repos\Calculate\Calculate\bin\Debug\Calculate.pdb
+C:\Users\E5530\source\repos\Calculate\Calculate\obj\Debug\Calculate.csprojAssemblyReference.cache
+C:\Users\E5530\source\repos\Calculate\Calculate\obj\Debug\Calculate.Form1.resources
+C:\Users\E5530\source\repos\Calculate\Calculate\obj\Debug\Calculate.Properties.Resources.resources
+C:\Users\E5530\source\repos\Calculate\Calculate\obj\Debug\Calculate.csproj.GenerateResource.cache
+C:\Users\E5530\source\repos\Calculate\Calculate\obj\Debug\Calculate.csproj.CoreCompileInputs.cache
+C:\Users\E5530\source\repos\Calculate\Calculate\obj\Debug\Calculate.exe
+C:\Users\E5530\source\repos\Calculate\Calculate\obj\Debug\Calculate.pdb
